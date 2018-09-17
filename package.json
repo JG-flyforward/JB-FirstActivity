@@ -1,1 +1,8 @@
-
+{
+  "name": "JB-FirstActivity",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.10.0"
+  }
+}
